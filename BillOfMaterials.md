@@ -2,3 +2,5 @@
 # Bill Of Materials 
  |Part|Number Needed|Price|Source| 
  |----|----------|-----|-----|
+|10mm M3 Bolt|4|$0.00||
+|Total: |4|$0.00| |
